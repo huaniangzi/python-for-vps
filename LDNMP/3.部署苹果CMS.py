@@ -1,5 +1,5 @@
 import paramiko
-
+  
 servers = [
 
     {"name": "吉隆坡", "hostname": "1.1.1.1", "port": 22, "username": "root", "password": "123456", "dbrootpasswd": "webroot", "dbuse": "one", "dbusepasswd": "yyds", "domain": "a1.yuming.com", "dbname": "db1"},    
